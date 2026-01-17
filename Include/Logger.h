@@ -2,6 +2,7 @@
 #define _H_LOGGER
 
 #include <string>
+#include <cstdint>
 
 enum lvl{
     INFO = 0,
